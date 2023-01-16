@@ -22,6 +22,6 @@ I am currently a senior at New York University with a major in computer science 
 - Demo: [youtu.be/sVr7BSL40MI](https://youtu.be/sVr7BSL40MI)
 
 ## ☁️ Contact me
-📧 Email: charlottexlin02@gmail.com
-🔗 LinkedIn: https://www.linkedin.com/in/charlotte-lin-nyu/
-🌐 Personal website: coming soon...
+📧 Email: charlottexlin02@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/charlotte-lin-nyu/  
+🌐 Personal website: coming soon...  
