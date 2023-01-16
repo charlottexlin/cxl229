@@ -9,7 +9,7 @@ I am currently a senior at New York University with a major in computer science 
 - Repo: [gacha-cats](https://github.com/cxl229/gacha-cats)
 - Try it: [gacha-cats.onrender.com](https://gacha-cats.onrender.com/)
 
-##### 🌳 Where the Cat Went
+##### 🌸 Where the Cat Went
 - Digital art piece
 - Repo: [wherethecatwent](https://github.com/cxl229/wherethecatwent)
 - Try it: [Where the Cat Went](https://troubled-pumps-colt.cyclic.app/)
