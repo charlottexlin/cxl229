@@ -23,5 +23,5 @@ I am currently a senior at New York University with a major in computer science 
 
 ## ☁️ Contact me
 📧 Email: charlottexlin02@gmail.com  
-🔗 LinkedIn: [linkedin.com/in/charlottexlin](https://www.linkedin.com/in/charlottexlin/)
+🔗 LinkedIn: [linkedin.com/in/charlottexlin](https://www.linkedin.com/in/charlottexlin/)  
 🌐 Personal website: [charlottexlin.com](https://charlottexlin.com/)
