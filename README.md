@@ -6,7 +6,7 @@ I am currently a senior at New York University with a major in computer science 
 ## 🍥 Latest projects
 All the code and art in these projects are done by me.
 
-##### 🦄 Personal Website
+##### ✨ Personal Website
 - My first project done fully with React.js
 - Repo: [personal-website](https://github.com/cxl229/personal-website)
 - Try it: [charlottexlin.com](https://charlottexlin.com/)
