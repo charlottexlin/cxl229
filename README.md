@@ -4,6 +4,13 @@
 I am currently a senior at New York University with a major in computer science and a minor in digital art and design. I'm passionate about applying creativity to computing in order to solve problems and develop unique programs. In my free time, I like to read, write, and do game development. Please check out some of my work!
 
 ## 🍥 Latest projects
+All the code and art in these projects are done by me!
+
+##### 🦄 Personal Website
+- My first project done fully with React.js
+- Repo: [personal-website](https://github.com/cxl229/personal-website)
+- Try it: [charlottexlin.com](https://charlottexlin.com/)
+
 ##### 🐱 Gacha Cats!
 - Web-based gacha game with lots of cats to collect
 - Repo: [gacha-cats](https://github.com/cxl229/gacha-cats)
