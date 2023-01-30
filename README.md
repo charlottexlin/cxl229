@@ -14,7 +14,7 @@ All the code and art in these projects are done by me.
 ##### 🐱 Gacha Cats!
 - Web-based gacha game with lots of cats to collect
 - Repo: [gacha-cats](https://github.com/cxl229/gacha-cats)
-- Try it: [gacha-cats.onrender.com](https://gacha-cats.onrender.com/)
+- Try it: ***TEMPORARILY DOWN*** [gacha-cats.onrender.com](https://gacha-cats.onrender.com/)
 
 ##### 🌸 Where the Cat Went
 - Digital art piece
