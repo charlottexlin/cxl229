@@ -1,7 +1,7 @@
 # Hi, I'm Charlotte Lin!
 
 ## 🌼 About me
-I am currently a senior at New York University with a major in computer science and a minor in digital art and design. I'm passionate about applying creativity to computing in order to solve problems and develop unique programs. In my free time, I like to read, write, and do game development. Please check out some of my work!
+I am software engineer, master's student, and hobbyist game developer. I graduated from New York University in 2023 with a bachelor's degree in computer science and a minor in digital art and design. I'm passionate about applying creativity to computing in order to solve problems and develop unique programs. In my free time, I like to read and write. Please check out some of my work!
 
 ## 🍥 Latest projects
 All the code and art in these projects are done by me.
