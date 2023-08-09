@@ -1,14 +1,13 @@
 # Hi, I'm Charlotte Lin!
 
 ## 🌼 About me
-I am a software engineer, master's student, and hobbyist game developer. I graduated from New York University in 2023 with a bachelor's degree in computer science and a minor in digital art and design. I'm passionate about applying creativity to computing in order to solve problems and develop unique programs. In my free time, I like to read and write. Please check out some of my work!
+I am a software engineer, master's student, and amateur game developer. I graduated from New York University in 2023 with a bachelor's degree in computer science and a minor in digital art and design. I'm passionate about applying creativity to computing in order to solve problems and develop unique programs. In my free time, I like to read and write. Please check out some of my work!
 
 ## 🍥 Latest projects
 All the code and art in these projects are done by me.
 
 ##### 🦄 Personal Website
 - My first project done fully with React.js
-- Repo: [personal-website](https://github.com/cxl229/personal-website)
 - Try it: [charlottexlin.com](https://charlottexlin.com/)
 
 ##### 🐱 Gacha Cats!
